@@ -9,4 +9,4 @@ Features:
 
 This project was never intended to be something long-lasting or evolving, think of it as a "written-and-forgotten" app. It was more of a proof-of-concept for one of the subjects in the university. Most probably I won't change anything here ever.
 
-![Screenshot](aquarium.png)
+![Screenshot](Aquarium.PNG)
